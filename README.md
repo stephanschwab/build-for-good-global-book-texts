@@ -18,7 +18,7 @@ Multilingual open-source version of the book “Build For Good: The Optimism Way
 - 🇵🇹 [BUILD FOR GOOD O Caminho do Optimism_portuguese.txt](BUILD%20FOR%20GOOD%20O%20Caminho%20do%20Optimism_portuguese.txt)
 - 🇮🇹 [BUILD FOR GOOD La Via di Optimism_italian.txt](BUILD%20FOR%20GOOD%20La%20Via%20di%20Optimism_italian.txt)
 - 🇮🇳 [BUILD FOR GOOD उम्मीद का रास्ता_hindi.txt](BUILD%20FOR%20GOOD%20उम्मीद%20का%20रास्ता_hindi.txt)
-- 🇨🇳 [BUILD FOR GOOD Optimism 的道路_chinese.txt](BUILD%20FOR%20GOOD%20Optimism%20的道路_chinese.txt)
+- 🇨🇳 [BUILD FOR GOOD Optimism 的道路_chinese.txt](BUILD%20FOR%20GOOD：Optimism%20的道路_chinese.txt)
 - 🇸🇦 [BUILD FOR GOOD — طريق التفاؤل (Arabic)](build-for-good-arabic.txt)
 
 ---
