@@ -11,7 +11,7 @@ Multilingual open-source version of the book “Build For Good: The Optimism Way
 ## 🌍 Available Languages
 
 - 🇺🇦 [BUILD FOR GOOD Шлях Оптимізму_ukrainian.txt](BUILD%20FOR%20GOOD%20Шлях%20Оптимізму_ukrainian.txt)
-- 🇬🇧 [BUILD FOR GOOD — The Optimism Way (English)](build-for-good-english.txt)
+- 🇬🇧 [BUILD FOR GOOD The Optimism Way_english.txt](BUILD%20FOR%20GOOD%20The%20Optimism%20Way_english.txt)
 - 🇩🇪 [BUILD FOR GOOD — Der Optimism Weg (German)](build-for-good-german.txt)
 - 🇫🇷 [BUILD FOR GOOD — La Voie d'Optimism (French)](build-for-good-french.txt)
 - 🇪🇸 [BUILD FOR GOOD — El Camino de Optimism (Spanish)](build-for-good-spanish.txt)
