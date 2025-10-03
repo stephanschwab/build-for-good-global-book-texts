@@ -1,7 +1,7 @@
 # build-for-good-global-book-texts
 Multilingual open-source version of the book “Build For Good: The Optimism Way” — available in 10 languages as plain text.
 # 📘 BUILD FOR GOOD: The Optimism Way (Multilingual Texts)
-📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
+📌 **This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.**  
 
 > A multilingual public good book — created to support and inspire builders in the Optimism ecosystem.
 
@@ -39,7 +39,7 @@ Optimism
 
 
 ## 🌍 BuildForGood Ecosystem  
-This project is part of the BuildForGood Ecosystem for Optimism.  
+**This project is part of the BuildForGood Ecosystem for Optimism.**  
 
 📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
 
