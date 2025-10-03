@@ -33,8 +33,14 @@ in 10 languages, freely available for anyone to read, translate, or remix.
 👤 Author: Stephan  
 🐦 Twitter: [@stephan1516417](https://twitter.com/stephan1516417)
 
----
-
 X (formerly Twitter) (https://twitter.com/stephan1516417)
 stephan-optimism (@stephan1516417) on X
 Optimism 
+
+## 🌍 BuildForGood Ecosystem  
+This project is part of the BuildForGood Ecosystem for Optimism.  
+
+📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
+
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
+---
