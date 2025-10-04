@@ -46,7 +46,7 @@ Optimism
 | 👀 Total Views | 54 |
 | 🌍 Unique Visitors | 5 |
 
-![GitHub traffic growth chart](./images/traffic-oct2025 MULTILANGUALL.png)
+![GitHub traffic growth chart](./images/traffic-oct2025 text book.png)
 > *Source: GitHub Insights — growth in clones and views (last 14 days).*
 > 📘 *Consistent growth shows active interest from the Optimism community and badgeholders exploring the BuildForGood materials.*
 
