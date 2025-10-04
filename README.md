@@ -37,6 +37,19 @@ X (formerly Twitter) (https://twitter.com/stephan1516417)
 stephan-optimism (@stephan1516417) on X
 Optimism 
 
+## 📊 Impact Metrics (as of 04/10/2025)
+
+| Metric | Last 14 days |
+|---------|---------------|
+| 🧩 GitHub Clones | 14 |
+| 👥 Unique Cloners | 12 |
+| 👀 Total Views | 54 |
+| 🌍 Unique Visitors | 5 |
+
+![GitHub traffic growth chart](./images/traffic-oct2025 MULTILANGUALL.png)
+> *Source: GitHub Insights — growth in clones and views (last 14 days).*
+> 📘 *Consistent growth shows active interest from the Optimism community and badgeholders exploring the BuildForGood materials.*
+
 
 ## 🌍 BuildForGood Ecosystem  
 **This project is part of the BuildForGood Ecosystem for Optimism.**  
