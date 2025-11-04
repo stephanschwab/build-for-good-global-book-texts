@@ -23,11 +23,11 @@ Multilingual open-source version of the book “Build For Good: The Optimism Way
 - 🇸🇦 [BUILD FOR GOOD طريق التفاؤل_arabic.txt](BUILD%20FOR%20GOOD%20طريقة%20التفاؤل_arabic.txt)
 
 Update README (04.11.2025): +5 new languages added (PL, TR, JP, KR, ID)
-- 🇵🇱 [BUILD FOR GOOD Droga Optymizmu_polish.txt](./BUILD%20FOR%20GOOD%20Droga%20Optymizmu_polish.txt)
-- 🇹🇷 [BUILD FOR GOOD İyimserlik Yolu_turkish.txt](./BUILD%20FOR%20GOOD%20İyimserlik%20Yolu_turkish.txt)
-- 🇯🇵 [BUILD FOR GOOD 楽観主義の道_japanese.txt](./BUILD%20FOR%20GOOD%20楽観主義の道_japanese.txt)
-- 🇰🇷 [BUILD FOR GOOD 낙관주의의 길_korean.txt](./BUILD%20FOR%20GOOD%20낙관주의의%20길_korean.txt)
-- 🇮🇩 [BUILD FOR GOOD Jalan Optimisme_indonesian.txt](./BUILD%20FOR%20GOOD%20Jalan%20Optimisme_indonesian.txt) 
+- 🇵🇱 [BUILD FOR GOOD Droga Optymizmu_polish.txt](BUILD%20FOR%20GOOD%20Droga%20Optymizmu_polish.txt)
+- 🇹🇷 [BUILD FOR GOOD İyimserlik Yolu_turkish.txt](BUILD%20FOR%20GOOD%20İyimserlik%20Yolu_turkish.txt)
+- 🇯🇵 [BUILD FOR GOOD 楽観主義の道_japanese.txt](BUILD%20FOR%20GOOD%20楽観主義の道_japanese.txt)
+- 🇰🇷 [BUILD FOR GOOD 낙관주의의 길_korean.txt](BUILD%20FOR%20GOOD%20낙관주의의%20길_korean.txt)
+- 🇮🇩 [BUILD FOR GOOD Jalan Optimisme_indonesian.txt](BUILD%20FOR%20GOOD%20Jalan%20Optimisme_indonesian.txt) 
 ---
 
 📖 This repository contains the full text of "BUILD FOR GOOD: The Optimism Way"  
