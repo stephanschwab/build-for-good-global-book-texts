@@ -35,7 +35,7 @@ Update README (22.12.2025): +2 new languages added (VI, FA)
 ---
 
 📖 This repository contains the full text of "BUILD FOR GOOD: The Optimism Way"  
-in 10 languages, freely available for anyone to read, translate, or remix.
+in 17 languages, freely available for anyone to read, translate, or remix.
 
 🛠️ Built as a public good for [RetroPGF by Optimism](https://community.optimism.io/retropgf).
 
