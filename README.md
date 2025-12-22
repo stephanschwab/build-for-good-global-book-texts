@@ -30,8 +30,8 @@ Update README (04.11.2025): +5 new languages added (PL, TR, JP, KR, ID)
 - 🇮🇩 [BUILD FOR GOOD Jalan Optimisme_indonesian.txt](BUILD%20FOR%20GOOD%20Jalan%20Optimisme_indonesian.txt)
 
 Update README (22.12.2025): +2 new languages added (VI, FA)
-- VI [BUILD FOR GOOD Con duong cua Optimism_vietnamese.txt](BUILD%20FOR%20GOOD%20Con%20duong%20cua%20Optimism_vietnamese.txt)
-- FA [BUILD FOR GOOD Masir Optimism_persian.txt](BUILD%20FOR%20GOOD%20Masir%20Optimism_persian.txt)
+- VI [BUILD FOR GOOD The Optimism Way_vietnamese.txt](BUILD%20FOR%20GOOD%20Con%20duong%20cua%20Optimism_vietnamese.txt)
+- FA [BUILD FOR GOOD The Optimism Way_persian.txt](BUILD%20FOR%20GOOD%20Masir%20Optimism_persian.txt)
 ---
 
 📖 This repository contains the full text of "BUILD FOR GOOD: The Optimism Way"  
